@@ -1,0 +1,7 @@
+# _config.yml
+title: 3D Christmas Tree
+description: 互动式3D圣诞树体验
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
